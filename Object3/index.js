@@ -32,7 +32,7 @@ console.log(`pontu smells like ${jury.getName()}`);
 
 class Cat extends LivingThing {}
 
-let miisu = new Cat('Vurr');
+let miisu = new Cat('Vurrus');
 console.log(`miisu name is ${miisu.getName()}`);
 
 class Siamese extends Cat {
